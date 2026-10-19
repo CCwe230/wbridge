@@ -1,0 +1,7 @@
+{
+  "name": "xdpool-claude-bridge",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Anthropic Messages API bridge on top of a signed-in WorkBuddy desktop account, for Claude Code and the Claude desktop app."
+}
